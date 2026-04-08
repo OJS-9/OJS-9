@@ -1,14 +1,14 @@
 # Hey, I'm Or Salinas
 
-I'm a developer who builds tools that turn social media data into actionable insights. Currently studying and working on full-stack projects with Python, SQL, and modern web frameworks.
+I'm a developer who likes building practical tools — from data scrapers to stock trackers to travel apps. I enjoy working with APIs, automating things, and turning raw data into something useful. Currently learning and building full-stack projects.
 
-## What I'm building
+## Projects
 
-**[SocialScraper](https://github.com/OJS-9/SocialScraper)** — TikTok + Instagram analytics tool that merges posts into a single timeline with engagement metrics, audience demographics, and follower growth. Built with FastAPI, Instagram Graph API, and Jinja2.
+**[SocialScraper](https://github.com/OJS-9/SocialScraper)** — Aggregates TikTok and Instagram analytics into a unified dashboard with engagement metrics and audience insights.
 
-**[StockPro](https://github.com/OJS-9/StockPro)** — Stock research and portfolio tracking platform.
+**[StockPro](https://github.com/OJS-9/StockPro)** — Stock research and portfolio tracking platform with real-time data and AI-powered analysis.
 
-**[FLYTAU](https://github.com/OJS-9/FLYTAU)** — Flight deal aggregator.
+**[FLYTAU](https://github.com/OJS-9/FLYTAU)** — Flight deal aggregator that finds cheap flights across multiple sources.
 
 ## Tech I work with
 
